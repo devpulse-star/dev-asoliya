@@ -7,7 +7,7 @@
   Welcome to my GitHub profile! I'm a dedicated software developer with a passion for creating amazing applications and exploring new technologies. I believe in the power of code to solve problems and make a positive impact.
 </p>
 
-<!-- Badges -->
+<!-- Badges -->  
 <p align="center">
   <a href="https://www.linkedin.com/in/RavikantAsoliya" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
