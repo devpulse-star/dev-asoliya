@@ -32,8 +32,6 @@ To use Files Hider, follow these steps:
 
 Include some screenshots or GIFs showcasing the application's interface and functionality.
 
-![2](https://github.com/RavikantAsoliya/FilesHider/blob/main/Screenshots/Files-Hider.png)
-
 ## Future Enhancements
 
 Here are some features and topics that we plan to implement in future versions of Files Hider:
@@ -54,10 +52,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- [OpenAI](https://openai.com/) - for providing the underlying technology (GPT-3.5) for the chatbot assistant used during the development of this project.
-
 ## Contact
 
 For any questions or inquiries, please reach out to the project maintainers:
 
-- [Ravikant Asoliya](mailto:ravikant.asoliya@gmail.com)
